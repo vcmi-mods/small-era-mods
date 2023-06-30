@@ -1,0 +1,10 @@
+{
+	"core:dungeon" :
+	{
+
+		"town" :
+		{
+			"tavernVideo" : "tvrnDN.smk"
+		}
+	}
+}

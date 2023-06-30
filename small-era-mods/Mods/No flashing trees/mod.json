@@ -1,0 +1,8 @@
+{
+	"name" : "No flashing trees",
+	"description" : "The flashing frame in wog trees animation is fixed, for a more consistent looking, non-flashing",
+	"version":"1.0",
+	"author":"hippox89",
+	"contact":"none",
+	"modType":"Graphical"
+}

@@ -1,0 +1,10 @@
+{
+	"core:stronghold" :
+	{
+
+		"town" :
+		{
+			"tavernVideo" : "tvrnST.smk"
+		}
+	}
+}

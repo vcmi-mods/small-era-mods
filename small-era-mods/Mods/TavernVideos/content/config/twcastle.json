@@ -1,0 +1,10 @@
+{
+	"core:castle" :
+	{
+
+		"town" :
+		{
+			"tavernVideo" : "tvrnCS.smk"
+		}
+	}
+}
