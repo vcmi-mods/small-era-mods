@@ -1,8 +1,18 @@
 {
-"name" : "Small ERA II mods",
-"description" : "VCMI ports of various ERA II mods",
-"version":"1.0",
-"author":"various",
-"contact":"http://heroescommunity.com/viewthread.php3?TID=39062",
-"modType":"Graphical"
+	"name" : "Small ERA II mods",
+	"description" : "VCMI ports of various ERA II mods. Click at any submod to get more info in description window",
+	"version":"1.1",
+	"author":"various, port: Avatar",
+	"contact":"http://heroescommunity.com/viewthread.php3?TID=39062",
+	"modType":"Graphical",
+	"compatibility" :
+	{
+		"min" : "1.0.0"
+	},
+	"changelog" :
+    {
+
+		"1.1"   : [ "Small fixes" ],
+		"1.0"   : [ "Initial release" ]
+    }
 }
