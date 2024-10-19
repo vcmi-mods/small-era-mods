@@ -16,5 +16,10 @@
 	"config/twStronghold",
 	"config/twFortress",
 	"config/twConflux"
-	]
+	],
+
+	"czech" : {
+		"name" : "Animovaná putyka",
+		"description" : "Každé město má nyní animaci v putyce."
+	}
 }

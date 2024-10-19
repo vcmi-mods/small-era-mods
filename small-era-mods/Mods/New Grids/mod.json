@@ -4,5 +4,10 @@
 	"version" : "1.0",
 	"author" : "avatar",
 	"contact" : "",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	
+	"czech" : {
+		"name" : "Nové mřížky",
+		"description" : "Pět alternativních mřížek."
+	}
 }

@@ -4,5 +4,10 @@
 	"version" : "1.0",
 	"author" : "Etoprostoya aka Itsjustm",
 	"contact" : "",
-	"modType":"Graphical"
+	"modType":"Graphical",
+	
+	"czech" : {
+		"name" : "Nové terény",
+		"description" : "Změní vzhled běžných terénů. Kompatibilní se vším."
+	}
 }
