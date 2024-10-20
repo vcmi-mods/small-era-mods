@@ -11,5 +11,10 @@
 		"small-era-mods.new grids.02",
 		"small-era-mods.new grids.03",
 		"small-era-mods.new grids.04"
-	]
+	],
+	"keepDisabled" : true,
+	"czech" : {
+		"name" : "5. nová mřížka",
+		"description" : ""
+	}
 }

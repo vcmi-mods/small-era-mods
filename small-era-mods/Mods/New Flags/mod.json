@@ -4,5 +4,10 @@
 	"version" : "1.0",
 	"author" : "Ivor",
 	"contact" : "",
-	"modType":"Graphical"
+	"modType":"Graphical",
+	
+	"czech" : {
+		"name" : "Nové vlajky",
+		"description" : "Změní ikony vlajek v okně pokročilých možností při výběru scénáře."
+	}
 }

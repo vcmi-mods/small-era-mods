@@ -4,5 +4,10 @@
 	"version":"1.0",
 	"author":"hippox89",
 	"contact":"none",
-	"modType":"Graphical"
+	"modType":"Graphical",
+	
+	"czech" : {
+		"name" : "Bez blikajících stromů",
+		"description" : "Blikající animace stromů byla opravena ve WoGu pro konzistentnější vzhled bez blikání."
+	}
 }
