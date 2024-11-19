@@ -1,0 +1,13 @@
+{
+	"name" : "New Difficulty icons",
+	"description" : "Changes difficulty icons",
+	"version" : "1.0",
+	"author" : "geNNadiy",
+	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
+	"modType":"Graphical",
+	
+	"czech" : {
+		"name" : "Nové ikony obtížnosti",
+		"description" : "Změní ikony obtítižnosti při výběru scénáře"
+	}
+}
