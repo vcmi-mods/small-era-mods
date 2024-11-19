@@ -1,6 +1,6 @@
 {
 	"name" : "New Difficulty icons",
-	"description" : "Changes difficulty icons",
+	"description" : "Changes difficulty icons on scenario selection screen",
 	"version" : "1.0",
 	"author" : "geNNadiy",
 	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
@@ -8,6 +8,6 @@
 	
 	"czech" : {
 		"name" : "Nové ikony obtížnosti",
-		"description" : "Změní ikony obtítižnosti při výběru scénáře"
+		"description" : "Změní ikony obtížnosti při výběru scénáře"
 	}
 }
