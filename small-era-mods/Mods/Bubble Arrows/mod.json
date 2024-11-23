@@ -1,0 +1,13 @@
+{
+	"name" : "Hero movement arrow",
+	"description" : "New bubble style hero movement arrows",
+	"author":"FallenAngel",
+	"contact":"",
+	"modType":"Graphical"
+	"version":"1.0",
+	
+	"czech" : {
+		"name": "Ukazatal pohybu hrdiny",
+		"description": "Nový ukazatel pohybu hrdiny na mapě v bublinové stylu"
+	}
+}
