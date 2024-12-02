@@ -5,7 +5,13 @@
 	"author":"hippox89",
 	"contact":"none",
 	"modType":"Graphical",
-	
+	"keepDisabled" : true,
+	"softDepends" :
+	[
+		"wake-of-gods.animatedtrees",
+		"wake-of-gods.woggraphicfix.wf_mapobjects",
+		"hota.heroes3datapatch"
+	],
 	"czech" : {
 		"name" : "Bez blikajících stromů",
 		"description" : "Blikající animace stromů byla opravena ve WoGu pro konzistentnější vzhled bez blikání."
