@@ -6,6 +6,21 @@
 	"modType":"Graphical",
 	"version":"1.0",
 	
+	"conflicts" :
+    [
+        "hota.heroes3DataPatch.arrow",
+        "wake-of-gods.wogGraphicFix.wf_arrow",
+        "movement-arrows.hota_blue",
+        "movement-arrows.hota_cyan",
+        "movement-arrows.hota_magenta",
+        "movement-arrows.hota_neon_cyan",
+        "movement-arrows.hota_neon_green",
+        "movement-arrows.hota_orange",
+        "movement-arrows.hota_pink",
+        "movement-arrows.hota_yellow",
+        "movement-arrows.hota_yellow-orange"
+    ],
+	
 	"czech" : {
 		"name": "Ukazatal pohybu hrdiny",
 		"description": "Nový ukazatel pohybu hrdiny na mapě v bublinovém stylu"
