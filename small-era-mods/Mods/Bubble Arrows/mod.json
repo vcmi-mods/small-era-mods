@@ -22,7 +22,7 @@
     ],
 	
 	"czech" : {
-		"name": "Ukazatal pohybu hrdiny",
+		"name": "Ukazatel pohybu hrdiny",
 		"description": "Nový ukazatel pohybu hrdiny na mapě v bublinovém stylu"
 	}
 }
