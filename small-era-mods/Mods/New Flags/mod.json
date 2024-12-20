@@ -6,6 +6,10 @@
 	"contact" : "",
 	"modType":"Graphical",
 	
+	"softDepends" : [
+		"hota.heroes3datapatch"
+	],
+	
 	"czech" : {
 		"name" : "Nové vlajky",
 		"description" : "Změní ikony vlajek v okně pokročilých možností při výběru scénáře."
