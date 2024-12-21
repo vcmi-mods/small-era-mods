@@ -6,6 +6,8 @@
 	"contact" : "",
 	"modType":"Graphical",
 	
+	"keepDisabled" : true,
+	
 	"czech" : {
 		"name" : "Nové terény",
 		"description" : "Změní vzhled běžných terénů. Kompatibilní se vším."
