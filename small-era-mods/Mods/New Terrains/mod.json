@@ -7,7 +7,8 @@
 	"modType":"Graphical",
 	
 	"softDepends" : [ "hota.heroes3datapatch" ],
-	
+	"conflicts" : [ "newtown-terrains", "asphalt-terrain", "new-pavilion.dunes", "kremlin-town.meadow" ],
+
 	"czech" : {
 		"name" : "Nové terény",
 		"description" : "Změní vzhled běžných terénů. Kompatibilní se vším."
