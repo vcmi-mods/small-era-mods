@@ -5,9 +5,15 @@
 	"author" : "geNNadiy",
 	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
 	"modType":"Graphical",
-	
+	"conflicts" :
+	[
+		"hd-remastered"
+	],	
 	"czech" : {
 		"name" : "Nové ikony obtížnosti",
 		"description" : "Změní ikony obtížnosti při výběru scénáře"
 	}
 }
+
+
+
