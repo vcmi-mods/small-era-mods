@@ -5,9 +5,10 @@
 	"author" : "geNNadiy",
 	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
 	"modType":"Graphical",
-	"conflicts" :
+	"softDepends" :
 	[
-		"hd-remastered"
+		"hd-remastered",
+		"hd-edition"
 	],	
 	"czech" : {
 		"name" : "Nové ikony obtížnosti",
