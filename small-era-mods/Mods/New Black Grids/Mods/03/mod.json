@@ -1,5 +1,5 @@
 {
-	"name" : "New Grid 03",
+	"name" : "New Grid Black 03",
 	"description" : "",
 	"version" : "",
 	"author" : "",
@@ -9,11 +9,11 @@
 	[
 		"small-era-mods.new grids.01",
 		"small-era-mods.new grids.02",
+		"small-era-mods.new grids.03",
 		"small-era-mods.new grids.04",
 		"small-era-mods.new grids.05",
 		"small-era-mods.new black grids.01",
 		"small-era-mods.new black grids.02",
-		"small-era-mods.new black grids.03",
 		"small-era-mods.new black grids.04",
 		"small-era-mods.new black grids.05"
 	],

@@ -1,5 +1,5 @@
 {
-	"name" : "New Grids",
+	"name" : "New Black Grids",
 	"description" : "Five alternative grids",
 	"version" : "1.0",
 	"author" : "avatar",
@@ -8,11 +8,11 @@
 	
 	"conflicts" :
 	[
-		"small-era-mods.new black grids"
+		"small-era-mods.new grids"
 	],
-		
+	
 	"czech" : {
-		"name" : "Nové mřížky",
+		"name" : "Nové černé mřížky",
 		"description" : "Pět alternativních mřížek."
 	}
 }
