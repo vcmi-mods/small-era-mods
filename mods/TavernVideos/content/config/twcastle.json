@@ -1,9 +1,6 @@
 {
-	"core:castle" :
-	{
-
-		"town" :
-		{
+	"core:castle" : {
+		"town" : {
 			"tavernVideo" : "tvrnCS.smk"
 		}
 	}

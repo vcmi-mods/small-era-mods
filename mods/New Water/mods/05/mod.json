@@ -4,9 +4,11 @@
 	"version" : "1.0",
 	"author" : "George King",
 	"contact" : "",
-	"modType":"Graphical",
+	"modType" : "Graphical",
 	"keepDisabled" : true,
-	"softDepends" : [ "hota.heroes3datapatch" ],
+	"softDepends" : [
+		"hota.heroes3datapatch"
+	],
 
 	"conflicts" : [
 		"small-era-mods.New Terrains",

@@ -1,9 +1,6 @@
 {
-	"core:dungeon" :
-	{
-
-		"town" :
-		{
+	"core:dungeon" : {
+		"town" : {
 			"tavernVideo" : "tvrnDN.smk"
 		}
 	}

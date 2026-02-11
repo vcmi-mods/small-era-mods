@@ -4,8 +4,8 @@
 	"version" : "1.0",
 	"author" : "George King",
 	"contact" : "",
-	"modType":"Graphical",
-	
+	"modType" : "Graphical",
+
 	"conflicts" : [
 		"small-era-mods.New Terrains"
 	],

@@ -1,9 +1,6 @@
 {
-	"core:necropolis" :
-	{
-
-		"town" :
-		{
+	"core:necropolis" : {
+		"town" : {
 			"tavernVideo" : "tvrnNP.smk"
 		}
 	}

@@ -1,9 +1,6 @@
 {
-	"core:conflux" :
-	{
-
-		"town" :
-		{
+	"core:conflux" : {
+		"town" : {
 			"tavernVideo" : "tvrnEL.smk"
 		}
 	}

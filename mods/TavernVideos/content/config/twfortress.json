@@ -1,9 +1,6 @@
 {
-	"core:fortress" :
-	{
-
-		"town" :
-		{
+	"core:fortress" : {
+		"town" : {
 			"tavernVideo" : "tvrnFR.smk"
 		}
 	}
