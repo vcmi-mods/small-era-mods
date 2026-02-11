@@ -1,0 +1,17 @@
+{
+	"name" : "New Terrains",
+	"description" : "Changes the regular terrains outfit.",
+	"version" : "1.0",
+	"author" : "Etoprostoya aka Itsjustme",
+	"contact" : "",
+	"modType":"Graphical",
+	"keepDisabled" : true,
+
+	"softDepends" : [ "hota.heroes3datapatch" ],
+	"conflicts" : [ "newtown-terrains", "asphalt-terrain", "new-pavilion.dunes", "kremlin-town.meadow" ],
+
+	"czech" : {
+		"name" : "Nové terény",
+		"description" : "Změní vzhled běžných terénů."
+	}
+}

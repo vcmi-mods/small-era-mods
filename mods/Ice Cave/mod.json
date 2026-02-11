@@ -1,0 +1,25 @@
+{
+	"name" : "Ice Cave",
+	"description" : "Ice Cave underground terrain",
+	"version" : "1.0",
+	"author" : "hipokampus, ported by George King",
+	"contact" : "https://forum.df2.ru/index.php?showtopic=39601",
+	"modType" : "Graphical",
+
+	"czech" : {
+		"name" : "Ledová jeskyně",
+		"description" : "Podzemní terén ledové jeskyně"
+	},
+	"terrains":
+	[
+		"config/icecave.json"
+	],
+	"roads":
+	[
+		"config/iceroad.json"
+	],
+	"biomes" :
+	[
+		"config/biomes.json"
+	]
+}

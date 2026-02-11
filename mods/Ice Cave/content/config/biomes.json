@@ -1,0 +1,65 @@
+{
+	"templateSet200":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "crater"
+		},
+		"templates" : ["AVLctsn0"]
+	},
+	"templateSet201":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "tree"
+		},
+		"templates" : ["AVLd1sn0", "AVLd2sn0", "AVLd3sn0", "AVLd4sn0", "AVLd5sn0", "AVLd6sn0", "AVLd7sn0", "AVLd8sn0", "AVLd9sn0", "AVLddsn0", "AVLddsn1", "AVLddsn2", "AVLddsn3", "AVLddsn4", "AVLddsn5", "AVLddsn6", "AVLddsn7"]
+	},
+	"templateSet202":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "lake"
+		},
+		"templates" : ["AVLflk10", "AVLflk20", "AVLflk30"]
+	},
+	"templateSet203":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "mountain"
+		},
+		"templates" : ["AVLmtsn1", "AVLmtsn2", "AVLmtsn3", "AVLmtsn4", "AVLmtsn5", "AVLmtsn6"]
+	},
+	"templateSet204":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "rock"
+		},
+		"templates" : ["AVLo1sn0", "AVLo2sn0", "AVLo3sn0"]
+	},
+	"templateSet205":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "tree"
+		},
+		"templates" : ["AVLSNTR0", "AVLSNTR1", "AVLSNTR2", "AVLSNTR3", "AVLSNTR4", "AVLSNTR5", "AVLsntr6", "AVLsntr7"]
+	},
+	"templateSet206":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "rock"
+		},
+		"templates" : ["AVLr1sn0", "AVLr2sn0", "AVLr3sn0", "AVLr4sn0", "AVLr5sn0", "AVLr6sn0", "AVLr7sn0", "AVLr8sn0"]
+	},
+	"templateSet207":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "plant"
+		},
+		"templates" : ["AVLs1sn0", "AVLs2sn0", "AVLs3sn0"]
+	},
+	"templateSet208":{
+		"biome":{
+			"terrain" : "subterraIce",
+			"objectType" : "plant"
+		},
+		"templates" : ["AVLp1sn0", "AVLp2sn0"]
+	}
+}
