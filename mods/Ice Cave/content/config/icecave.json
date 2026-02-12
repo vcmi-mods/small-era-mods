@@ -7,7 +7,11 @@
 		"minimapBlocked"   : [ 140, 158, 156 ],
 		"music" : [ "Underground.mp3", "Snow.mp3" ],
 		"tiles" : "SNOWTLF",
-		"type" : ["SUB"],
+		"type" : [],
+		"allowedLayers" : [
+			"underground",
+			"unknown"
+		],
 		"shortIdentifier" : "sn",
 		"river" : "iceRiver",
 		"battleFields" : ["snow_mountains", "snow_trees"],
@@ -27,6 +31,10 @@
 		"music" : [ "Underground.mp3", "Snow.mp3" ],
 		"tiles" : "icecav",
 		"type" : [ "ROCK" ],
+		"allowedLayers" : [
+			"underground",
+			"unknown"
+		],
 		"shortIdentifier" : "ri",
 		"battleFields" : [ "snow_mountains", "snow_trees" ],
 		"transitionRequired" : true,
