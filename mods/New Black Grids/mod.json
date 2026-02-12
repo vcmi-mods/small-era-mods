@@ -5,12 +5,11 @@
 	"author" : "avatar",
 	"contact" : "",
 	"modType" : "Graphical",
-	
-	"conflicts" :
-	[
+
+	"conflicts" : [
 		"small-era-mods.new grids"
 	],
-	
+
 	"czech" : {
 		"name" : "Nové černé mřížky",
 		"description" : "Pět alternativních mřížek."

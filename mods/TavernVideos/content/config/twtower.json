@@ -1,9 +1,6 @@
 {
-	"core:tower" :
-	{
-
-		"town" :
-		{
+	"core:tower" : {
+		"town" : {
 			"tavernVideo" : "tvrnTW.smk"
 		}
 	}

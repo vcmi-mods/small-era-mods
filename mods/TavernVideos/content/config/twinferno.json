@@ -1,9 +1,6 @@
 {
-	"core:inferno" :
-	{
-
-		"town" :
-		{
+	"core:inferno" : {
+		"town" : {
 			"tavernVideo" : "tvrnIN.smk"
 		}
 	}

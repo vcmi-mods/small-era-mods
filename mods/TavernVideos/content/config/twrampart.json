@@ -1,9 +1,6 @@
 {
-	"core:rampart" :
-	{
-
-		"town" :
-		{
+	"core:rampart" : {
+		"town" : {
 			"tavernVideo" : "tvrnRM.smk"
 		}
 	}

@@ -10,16 +10,13 @@
 		"name" : "Ledová jeskyně",
 		"description" : "Podzemní terén ledové jeskyně"
 	},
-	"terrains":
-	[
+	"terrains" : [
 		"config/icecave.json"
 	],
-	"roads":
-	[
+	"roads" : [
 		"config/iceroad.json"
 	],
-	"biomes" :
-	[
+	"biomes" : [
 		"config/biomes.json"
 	]
 }

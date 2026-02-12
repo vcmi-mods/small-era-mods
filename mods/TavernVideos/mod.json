@@ -3,19 +3,18 @@
 	"description" : "Every town has its own tavern video",
 	"author" : "feanor",
 	"version" : "1.0",
-	"modType":"Graphical",
+	"modType" : "Graphical",
 	"contact" : "",
-	"factions" : 
-	[ 
-	"config/twCastle",
-	"config/twRampart",
-	"config/twTower",
-	"config/twInferno",
-	"config/twNecropolis",
-	"config/twDungeon",
-	"config/twStronghold",
-	"config/twFortress",
-	"config/twConflux"
+	"factions" : [
+		"config/twCastle",
+		"config/twRampart",
+		"config/twTower",
+		"config/twInferno",
+		"config/twNecropolis",
+		"config/twDungeon",
+		"config/twStronghold",
+		"config/twFortress",
+		"config/twConflux"
 	],
 
 	"czech" : {
