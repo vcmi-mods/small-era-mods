@@ -53,7 +53,9 @@
 			"Snow.mp3"
 		],
 		"tiles" : "icecav",
-		"type" : [ "ROCK" ],
+		"type" : [
+			"ROCK"
+		],
 		"allowedLayers" : [
 			"underground",
 			"unknown"
