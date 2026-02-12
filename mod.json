@@ -1,0 +1,42 @@
+{
+	"name" : "Small ERA II mods",
+	"description" : "VCMI ports of various ERA II mods. Click at any submod to get more info in description window",
+	"version" : "1.7",
+	"author" : "various, port: Avatar",
+	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
+	"modType" : "Graphical",
+	"compatibility" : {
+		"min" : "1.0.0"
+	},
+	"changelog" : {
+		"1.7" : [
+			"Moved new flags submod to the new-style interface mod (still can be installed separately)"
+		],
+		"1.6" : [
+			"Added Unmounted heroes submod",
+			"Fixed incorrect flag in New flags submod by Aphra"
+		],
+		"1.5" : [
+			"Added hero movement arrow depencies"
+		],
+		"1.4" : [
+			"Added new hero movement arrow"
+		],
+		"1.3" : [
+			"Added new difficulty buttons"
+		],
+		"1.2" : [
+			"Czech translation by George King"
+		],
+		"1.1" : [
+			"Small fixes"
+		],
+		"1.0" : [
+			"Initial release"
+		]
+	},
+	"czech" : {
+		"name" : "Malé ERA II módy",
+		"description" : "VCMI porty různých módů z ERA II. Klikni na jakoukoli modifikaci pro více informací"
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"images" : [
+		{
+			"group" : 0,
+			"frame" : 0,
+			"file" : "trdg000.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 1,
+			"file" : "trdg001.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 2,
+			"file" : "trdg010.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 3,
+			"file" : "trdg011.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 4,
+			"file" : "trdg012.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 5,
+			"file" : "trdg013.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 6,
+			"file" : "trdg020.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 7,
+			"file" : "trdg021.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 8,
+			"file" : "trdg022.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 9,
+			"file" : "trdg023.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 10,
+			"file" : "trdg030.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 11,
+			"file" : "trdg031.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 12,
+			"file" : "trdg032.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 13,
+			"file" : "trdg033.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 14,
+			"file" : "trdg040.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 15,
+			"file" : "trdg041.pcx.png"
+		},
+		{
+			"group" : 0,
+			"frame" : 16,
+			"file" : "trdg050.pcx.png"
+		}
+	],
+	"basepath" : "iceroad/"
+}

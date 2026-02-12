@@ -1,0 +1,8 @@
+{
+	"iceRoad" : {
+		"shortIdentifier" : "ir",
+		"tilesFilename" : "iceroad",
+		"moveCost" : 90,
+		"text" : "Ice Road"
+	}
+}

@@ -1,0 +1,73 @@
+{
+	"subterraIce" : {
+		"text" : "Ice Cave",
+		"moveCost" : 150,
+		"minimapUnblocked" : [
+			181,
+			199,
+			198
+		],
+		"minimapBlocked" : [
+			140,
+			158,
+			156
+		],
+		"music" : [
+			"Underground.mp3",
+			"Snow.mp3"
+		],
+		"tiles" : "SNOWTLF",
+		"type" : [],
+		"allowedLayers" : [
+			"underground",
+			"unknown"
+		],
+		"shortIdentifier" : "sn",
+		"river" : "iceRiver",
+		"battleFields" : [
+			"snow_mountains",
+			"snow_trees"
+		],
+		"rockTerrain" : "rockIce",
+		"horseSound" : "horse03",
+		"horseSoundPenalty" : "horse23",
+		"transitionRequired" : true
+	},
+
+	// New subterrain ice borders as addition for ROCKTL
+	"rockIce" : {
+		"text" : "Ice Cave",
+		"moveCost" : -1,
+		"minimapUnblocked" : [
+			0,
+			0,
+			0
+		],
+		"minimapBlocked" : [
+			0,
+			0,
+			0
+		],
+		"music" : [
+			"Underground.mp3",
+			"Snow.mp3"
+		],
+		"tiles" : "icecav",
+		"type" : [
+			"ROCK"
+		],
+		"allowedLayers" : [
+			"underground",
+			"unknown"
+		],
+		"shortIdentifier" : "ri",
+		"battleFields" : [
+			"snow_mountains",
+			"snow_trees"
+		],
+		"transitionRequired" : true,
+		"terrainViewPatterns" : "rock",
+		"horseSound" : "horse03",
+		"horseSoundPenalty" : "horse23"
+	}
+}

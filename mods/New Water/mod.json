@@ -1,0 +1,17 @@
+{
+	"name" : "New Water",
+	"description" : "Collection of 10 recolored water styles",
+	"version" : "1.0",
+	"author" : "George King",
+	"contact" : "",
+	"modType" : "Graphical",
+
+	"conflicts" : [
+		"small-era-mods.New Terrains"
+	],
+
+	"czech" : {
+		"name" : "Nová voda",
+		"description" : "Kolekce 10 přebarvených stylů vody"
+	}
+}

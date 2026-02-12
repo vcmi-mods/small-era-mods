@@ -1,0 +1,30 @@
+{
+	"name" : "New water 05",
+	"description" : "New recolored water 05",
+	"version" : "1.0",
+	"author" : "George King",
+	"contact" : "",
+	"modType" : "Graphical",
+	"keepDisabled" : true,
+	"softDepends" : [
+		"hota.heroes3datapatch"
+	],
+
+	"conflicts" : [
+		"small-era-mods.New Terrains",
+		"small-era-mods.New Water.01",
+		"small-era-mods.New Water.02",
+		"small-era-mods.New Water.03",
+		"small-era-mods.New Water.04",
+		"small-era-mods.New Water.06",
+		"small-era-mods.New Water.07",
+		"small-era-mods.New Water.08",
+		"small-era-mods.New Water.09",
+		"small-era-mods.New Water.10"
+	],
+
+	"czech" : {
+		"name" : "Nová voda 05",
+		"description" : "Nová přebarvená voda 05"
+	}
+}
