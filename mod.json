@@ -37,6 +37,9 @@
 	},
 	"czech" : {
 		"name" : "Malé ERA II módy",
-		"description" : "VCMI porty různých módů z ERA II. Klikni na jakoukoli modifikaci pro více informací"
+		"description" : "VCMI porty různých módů z ERA II. Klikni na jakoukoli modifikaci pro více informací",
+		"translations" : [
+			"translation/czech.json"
+		]
 	}
 }
